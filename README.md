@@ -24,7 +24,7 @@ Human Resources + Data = ♥
 
 <!--EXCEL-->
 <a href="https://www.credly.com/badges/86f41f12-93ae-40df-97a4-def0a10ef6da">
-  <image src="https://user-images.githubusercontent.com/81267166/183756236-62a8ce10-1348-4c23-8d78-785ab40b83d5.svg" alt="Certificación de Microsoft" width=30px>
+  <image src="https://user-images.githubusercontent.com/81267166/183756236-62a8ce10-1348-4c23-8d78-785ab40b83d5.svg" alt="Certificación de Microsoft" width=50px>
 </a>
   
 <!--VBA-->  
@@ -83,12 +83,12 @@ CERTIFICACIONES
   
  <!--Certificación EXCEL --> 
  <a href="https://www.credly.com/badges/86f41f12-93ae-40df-97a4-def0a10ef6da">
-  <image src="https://user-images.githubusercontent.com/81267166/183761303-84e93f3e-8c7d-4a72-96e1-f4967783772a.png" alt="MOS Excel Expert" width=70px>
+  <image src="https://user-images.githubusercontent.com/81267166/183761303-84e93f3e-8c7d-4a72-96e1-f4967783772a.png" alt="MOS Excel Expert" width=80px>
 </a> 
    
 <!--Certificación Power Platform --> 
 <a href="https://www.credly.com/badges/d526de73-8b7b-4419-b117-e38379b23cd4">
-  <image src="https://user-images.githubusercontent.com/81267166/183762485-59a97db7-4721-4471-8274-65bf04dd49db.png" alt="MOS Excel Expert" width=70px>
+  <image src="https://user-images.githubusercontent.com/81267166/183762485-59a97db7-4721-4471-8274-65bf04dd49db.png" alt="MOS Excel Expert" width=80px>
 </a> 
 
   
@@ -102,14 +102,14 @@ LINKS O ENLACES
 ### My links
 
 <a href="https://www.luisnanezllanos.ml">
-  <image src="https://user-images.githubusercontent.com/81267166/183754901-c0f65b82-823f-4b2d-8300-8dfc629e3e02.png" alt="Visitar Sitio Web" width=60px>
+  <image src="https://user-images.githubusercontent.com/81267166/183754901-c0f65b82-823f-4b2d-8300-8dfc629e3e02.png" alt="Visitar Sitio Web" width=40px>
 </a>
  
 <a href="https://www.linkedin.com/in/luis-nanez-llanos">
-  <image src="https://user-images.githubusercontent.com/81267166/183753352-866c3f8e-1b44-4c9e-a929-ecf386ceda83.png" alt="Visitar LinkedIn" width=60px>
+  <image src="https://user-images.githubusercontent.com/81267166/183753352-866c3f8e-1b44-4c9e-a929-ecf386ceda83.png" alt="Visitar LinkedIn" width=40px>
 </a>
   
 <a href="https://www.youtube.com/c/PeruenEstudio?sub_confirmation=1">
-  <image src="https://user-images.githubusercontent.com/81267166/183755244-57784e9d-c940-4ddd-b0a6-b820a4f62826.png" alt="Visitar Canal YouTube" width=60px>
+  <image src="https://user-images.githubusercontent.com/81267166/183755244-57784e9d-c940-4ddd-b0a6-b820a4f62826.png" alt="Visitar Canal YouTube" width=40px>
 </a>
 
