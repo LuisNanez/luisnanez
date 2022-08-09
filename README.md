@@ -58,7 +58,7 @@ Human Resources + Data = ♥
   
 <!--FIGMA-->  
 <a href="#">
-  <image src="https://user-images.githubusercontent.com/81267166/183764564-29897fa9-3da0-4e67-bc4b-af45587cdf3e.svg" alt="Logo NOTION" width=30px>
+  <image src="https://user-images.githubusercontent.com/81267166/183764564-29897fa9-3da0-4e67-bc4b-af45587cdf3e.svg" alt="Logo NOTION" width=25px>
 </a>
 
   <!--------------------------------------
