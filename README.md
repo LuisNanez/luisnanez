@@ -82,12 +82,12 @@ CERTIFICACIONES
   
  <!--Certificación EXCEL --> 
  <a href="https://www.credly.com/badges/86f41f12-93ae-40df-97a4-def0a10ef6da">
-  <image src="https://user-images.githubusercontent.com/81267166/183761303-84e93f3e-8c7d-4a72-96e1-f4967783772a.png" alt="MOS Excel Expert" width=80px>
+  <image src="https://user-images.githubusercontent.com/81267166/183761303-84e93f3e-8c7d-4a72-96e1-f4967783772a.png" alt="MOS Excel Expert" width=100px>
 </a> 
    
 <!--Certificación Power Platform --> 
 <a href="https://www.credly.com/badges/d526de73-8b7b-4419-b117-e38379b23cd4">
-  <image src="https://user-images.githubusercontent.com/81267166/183762485-59a97db7-4721-4471-8274-65bf04dd49db.png" alt="MOS Excel Expert" width=80px>
+  <image src="https://user-images.githubusercontent.com/81267166/183762485-59a97db7-4721-4471-8274-65bf04dd49db.png" alt="MOS Excel Expert" width=100px>
 </a> 
 
   
