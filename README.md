@@ -26,7 +26,7 @@ Human Resources + Data = ♥
   
 <!--VBA-->  
 <a href="#">
-  <image src="https://user-images.githubusercontent.com/81267166/183758646-a96bf165-5c29-4b74-b9f4-a8f4b1fb6bc6.svg" alt="Logo VBA" width=30px>
+  <image src="https://user-images.githubusercontent.com/81267166/183758646-a96bf165-5c29-4b74-b9f4-a8f4b1fb6bc6.svg" alt="Logo VBA" width=60px>
 </a>
   
 <!--POWER BI-->  
