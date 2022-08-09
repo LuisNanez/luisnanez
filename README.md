@@ -42,9 +42,11 @@ Human Resources + Data = ♥
   
 <!--BIZAGI-->  
 <a href="#">
-  <image src="https://user-images.githubusercontent.com/81267166/183761904-3ef8515d-181e-4632-94ed-5c46a57238a6.jpg" alt="Logo SQL" width=30px>
+  <image src="https://user-images.githubusercontent.com/81267166/183762002-b80182c6-846d-4ffd-b25f-4ea3ace175ce.svg" alt="Logo SQL" width=30px>
 </a>
  
+  
+  
   
  <!--Certificación EXCEL --> 
 ![Insignia Microsoft Office Specialist - Microsoft](https://user-images.githubusercontent.com/81267166/183761303-84e93f3e-8c7d-4a72-96e1-f4967783772a.png)
