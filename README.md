@@ -1,11 +1,14 @@
 ### Hi 👋 my name is Luis Ñañez Llanos
 
 ## Data Analyst
-<!--
-**LuisNanez/luisnanez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
+- 🌍 I was born in Perú.
+- 💙 I love Microsoft.
+- 📖 I have two microsoft certificates: Excel Expert and Power Platform Fundamentals.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
