@@ -44,10 +44,16 @@ Human Resources + Data = ♥
   
 <!--BIZAGI-->  
 <a href="#">
-  <image src="https://user-images.githubusercontent.com/81267166/183762002-b80182c6-846d-4ffd-b25f-4ea3ace175ce.svg" alt="Logo SQL" width=30px>
+  <image src="https://user-images.githubusercontent.com/81267166/183762002-b80182c6-846d-4ffd-b25f-4ea3ace175ce.svg" alt="Logo BIZAGI" width=30px>
 </a>
- 
   
+  
+  
+  <!--NOTION-->  
+<a href="#">
+  <image src="https://user-images.githubusercontent.com/81267166/183763705-8316ccce-04ec-4e50-b95b-cbad1cdd230d.svg" alt="Logo NOTION" width=30px>
+</a>
+
   
   
   <!--------------------------------------
