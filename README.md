@@ -1,4 +1,6 @@
-### Hi 👋 my name is Luis Ñañez Llanos
+# Hi 👋 my name is Luis Ñañez Llanos.
+Curious and self-taught in general
+
 ------------
 ## Data Analyst
 
@@ -10,14 +12,11 @@ Human Resources + Data = ♥
 - 🌍 I was born in Perú.
 - 💙 I love Microsoft.
 - 📖 I have two microsoft certificates: [Excel Expert](https://www.credly.com/badges/86f41f12-93ae-40df-97a4-def0a10ef6da) and [Power Platform Fundamentals](https://www.credly.com/badges/d526de73-8b7b-4419-b117-e38379b23cd4).
-- 🔭 I’m currently working on ...
 - 🧠 I’m currently learning Python 🐍
 - 📉 I am looking to collaborate in a Human Resources team, specifically People Analytics.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Data Analytics, Microsoft Excel, VBA, Power BI.
-- 📫 How to reach me: ...
-- ⚡ Fun fact:
-- ✉️  You can reach me at luis.nanez@unmsm.edu.pe
+- ⚡ Fun fact: I love to dance and learn every day.
+- 📫  You can reach me at luis.nanez@unmsm.edu.pe
 
 
 ### Tools
