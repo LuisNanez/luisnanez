@@ -50,13 +50,17 @@ Human Resources + Data = ♥
   
   
   
-  <!--NOTION-->  
+<!--NOTION-->  
 <a href="#">
   <image src="https://user-images.githubusercontent.com/81267166/183763705-8316ccce-04ec-4e50-b95b-cbad1cdd230d.svg" alt="Logo NOTION" width=30px>
 </a>
 
   
-  
+<!--FIGMA-->  
+<a href="#">
+  <image src="https://user-images.githubusercontent.com/81267166/183764564-29897fa9-3da0-4e67-bc4b-af45587cdf3e.svg" alt="Logo NOTION" width=30px>
+</a>
+
   <!--------------------------------------
 CERTIFICACIONES
 ----------------------------------------->
