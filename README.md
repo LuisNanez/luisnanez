@@ -66,6 +66,12 @@ Human Resources + Data = ♥
   <image src="https://user-images.githubusercontent.com/81267166/183764858-7d48cec1-e97d-439f-bbc7-65b638944ecc.png" alt="Logo PYTHON" width=40px>
 </a>
   
+<!--GOOGLE SHEET-->  
+<a href="#">
+  <image src="https://user-images.githubusercontent.com/81267166/183765191-db308564-4034-4f6c-905c-995d2071a2f1.svg" alt="Logo GOOGLE SHEET" width=30px>
+</a>
+  
+
   
 
   <!--------------------------------------
