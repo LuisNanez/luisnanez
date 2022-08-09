@@ -22,6 +22,8 @@ Human Resources + Data = ♥
 
 ### My links
 
+
+
 <a href="https://www.luisnanezllanos.ml">
   <image src="https://user-images.githubusercontent.com/81267166/183754901-c0f65b82-823f-4b2d-8300-8dfc629e3e02.png" alt="Visitar Sitio Web" width=50px>
 </a>
@@ -29,3 +31,8 @@ Human Resources + Data = ♥
 <a href="https://www.linkedin.com/in/luis-nanez-llanos">
   <image src="https://user-images.githubusercontent.com/81267166/183753352-866c3f8e-1b44-4c9e-a929-ecf386ceda83.png" alt="Visitar LinkedIn" width=50px>
 </a>
+  
+<a href="https://www.youtube.com/c/PeruenEstudio?sub_confirmation=1">
+  <image src="https://user-images.githubusercontent.com/81267166/183755244-57784e9d-c940-4ddd-b0a6-b820a4f62826.png" alt="Visitar Canal YouTube" width=50px>
+</a>
+
