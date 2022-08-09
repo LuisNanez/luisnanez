@@ -18,3 +18,8 @@ Human Resources + Data = ♥
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
+### Tools
+
+<a href="https://www.linkedin.com/in/luis-nanez-llanos">
+  <image src="https://user-images.githubusercontent.com/81267166/183753352-866c3f8e-1b44-4c9e-a929-ecf386ceda83.png" alt="Visitar LinkedIn" width=50px>
+</a>
