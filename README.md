@@ -34,7 +34,17 @@ Human Resources + Data = ♥
   <image src="https://user-images.githubusercontent.com/81267166/183756495-8cdc59cd-d9ba-490f-89f7-7ccfa29f618a.svg" alt="Logo Power BI" width=30px>
 </a>
 
+ <!--SQL-->  
+<a href="#">
+  <image src="https://user-images.githubusercontent.com/81267166/183760986-70232646-4093-43dd-8b8d-2da4e22c457a.svg" alt="Logo SQL" width=30px>
+</a>
 
+  ![excel](https://user-images.githubusercontent.com/81267166/183761099-21294674-aec1-4e2f-97c1-8da5f6ca842f.svg)
+
+  ![sql](https://user-images.githubusercontent.com/81267166/183761077-39ab1e84-b716-475f-821e-b58cd6e4da98.svg)
+
+  
+  
 ### My links
 
 <a href="https://www.luisnanezllanos.ml">
