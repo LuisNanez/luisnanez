@@ -1,7 +1,17 @@
 # Hi 👋 my name is Luis Ñañez Llanos.
 Curious and self-taught in general
 
+![CV Animado](https://user-images.githubusercontent.com/81267166/183773283-de7a6158-d910-4959-ae9d-fd18bac6ae73.gif)
+
+<!--GIF-->
+
+<!--
+<img src="https://user-images.githubusercontent.com/81267166/183773283-de7a6158-d910-4959-ae9d-fd18bac6ae73.gif" width="400">
+-->
+<!--GIF-->
+
 ------------
+
 ## Data Analyst
 
 
