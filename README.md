@@ -14,9 +14,10 @@ Human Resources + Data = ♥
 - 🧠 I’m currently learning Python 🐍
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Data Analytics
+- 💬 Ask me about Data Analytics, Microsoft Excel, VBA, Power BI.
 - 📫 How to reach me: ...
 - ⚡ Fun fact:
+- ✉️  You can reach me at luis.nanez@unmsm.edu.pe
 
 
 ### Tools
