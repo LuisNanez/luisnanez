@@ -4,7 +4,8 @@
 
 
 
-Here are some ideas to get you started:
+Data analyst in process, I believe that data has become one of the organization's most valuable resources.
+Human Resources + Data = ♥
 
 - 🌍 I was born in Perú.
 - 💙 I love Microsoft.
