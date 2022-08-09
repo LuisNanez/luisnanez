@@ -58,8 +58,15 @@ Human Resources + Data = ♥
   
 <!--FIGMA-->  
 <a href="#">
-  <image src="https://user-images.githubusercontent.com/81267166/183764564-29897fa9-3da0-4e67-bc4b-af45587cdf3e.svg" alt="Logo NOTION" width=25px>
+  <image src="https://user-images.githubusercontent.com/81267166/183764564-29897fa9-3da0-4e67-bc4b-af45587cdf3e.svg" alt="Logo FIGMA" width=25px>
 </a>
+  
+  <!--PYTHON-->  
+<a href="#">
+  <image src="https://user-images.githubusercontent.com/81267166/183764858-7d48cec1-e97d-439f-bbc7-65b638944ecc.png" alt="Logo PYTHON" width=25px>
+</a>
+  
+  
 
   <!--------------------------------------
 CERTIFICACIONES
