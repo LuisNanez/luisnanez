@@ -21,7 +21,11 @@ Human Resources + Data = ♥
 ### Tools
 
 <a href="https://www.credly.com/badges/86f41f12-93ae-40df-97a4-def0a10ef6da">
-  <image src="https://user-images.githubusercontent.com/81267166/183756236-62a8ce10-1348-4c23-8d78-785ab40b83d5.svg" alt="Visitar Sitio Web" width=30px>
+  <image src="https://user-images.githubusercontent.com/81267166/183756236-62a8ce10-1348-4c23-8d78-785ab40b83d5.svg" alt="Certificación de Microsoft" width=30px>
+</a>
+  
+<a href="#">
+  <image src="https://user-images.githubusercontent.com/81267166/183756495-8cdc59cd-d9ba-490f-89f7-7ccfa29f618a.svg" alt="Ver mi certi" width=30px>
 </a>
 
 
