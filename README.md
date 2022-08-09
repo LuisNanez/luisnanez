@@ -63,7 +63,7 @@ Human Resources + Data = ♥
   
   <!--PYTHON-->  
 <a href="#">
-  <image src="https://user-images.githubusercontent.com/81267166/183764858-7d48cec1-e97d-439f-bbc7-65b638944ecc.png" alt="Logo PYTHON" width=25px>
+  <image src="https://user-images.githubusercontent.com/81267166/183764858-7d48cec1-e97d-439f-bbc7-65b638944ecc.png" alt="Logo PYTHON" width=40px>
 </a>
   
   
