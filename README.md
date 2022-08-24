@@ -123,6 +123,6 @@ LINKS O ENLACES
 </a>
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMTMxNDY1MjMtMmM3Yi00ZTUwLTgzZGEtZTRlOTJjYzEwNWU2IiwidCI6IjJlNDA4NTYwLTg5NmEtNDRmYy1hNTBjLTFlOTllMTAwZTgxMiJ9&pageName=ReportSection">
-  <image src="https://user-images.githubusercontent.com/81267166/183756495-8cdc59cd-d9ba-490f-89f7-7ccfa29f618a.svg" alt="Logo Power BI" width=50px>
+  <image src="https://user-images.githubusercontent.com/81267166/183756495-8cdc59cd-d9ba-490f-89f7-7ccfa29f618a.svg" alt="Logo Power BI" width=40px>
 </a>
 
