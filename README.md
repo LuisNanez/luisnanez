@@ -45,19 +45,36 @@ Human Resources + Data = ♥
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMTMxNDY1MjMtMmM3Yi00ZTUwLTgzZGEtZTRlOTJjYzEwNWU2IiwidCI6IjJlNDA4NTYwLTg5NmEtNDRmYy1hNTBjLTFlOTllMTAwZTgxMiJ9&pageName=ReportSection">
   <image src="https://user-images.githubusercontent.com/81267166/183756495-8cdc59cd-d9ba-490f-89f7-7ccfa29f618a.svg" alt="Logo Power BI" width=50px>
 </a>
+  
+ <!--POWER AUTOMATE-->  
+<a href="https://www.credly.com/badges/d526de73-8b7b-4419-b117-e38379b23cd4" target="_blank">
+  <image src="https://user-images.githubusercontent.com/81267166/195386132-c2d8c15b-6ae5-4257-9e2b-64aea89d3930.svg" alt="Logo POWER AUTOMATE" width=60px>
+</a>
+  
+  
+  <!--POWER APPS-->  
+<a href="https://www.credly.com/badges/d526de73-8b7b-4419-b117-e38379b23cd4" target="_blank">
+  <image src="https://user-images.githubusercontent.com/81267166/195386158-eca22501-1cfb-4b27-a428-86a7eedf81ef.svg" alt="Logo POWER APPS" width=60px>
+</a>
+  
 
  <!--SQL-->  
 <a href="#">
   <image src="https://user-images.githubusercontent.com/81267166/183760986-70232646-4093-43dd-8b8d-2da4e22c457a.svg" alt="Logo SQL" width=50px>
 </a>
-
   
-<!--BIZAGI-->  
+
+  <!--PYTHON-->  
 <a href="#">
-  <image src="https://user-images.githubusercontent.com/81267166/183762002-b80182c6-846d-4ffd-b25f-4ea3ace175ce.svg" alt="Logo BIZAGI" width=50px>
+  <image src="https://user-images.githubusercontent.com/81267166/183764858-7d48cec1-e97d-439f-bbc7-65b638944ecc.png" alt="Logo PYTHON" width=60px>
 </a>
   
   
+<!--GOOGLE SHEET-->  
+<a href="#">
+  <image src="https://user-images.githubusercontent.com/81267166/183765191-db308564-4034-4f6c-905c-995d2071a2f1.svg" alt="Logo GOOGLE SHEET" width=45px>
+</a>
+
   
 <!--NOTION-->  
 <a href="#">
@@ -70,26 +87,14 @@ Human Resources + Data = ♥
   <image src="https://user-images.githubusercontent.com/81267166/183764564-29897fa9-3da0-4e67-bc4b-af45587cdf3e.svg" alt="Logo FIGMA" width=40px>
 </a>
   
-  <!--PYTHON-->  
+  <!--BIZAGI-->  
 <a href="#">
-  <image src="https://user-images.githubusercontent.com/81267166/183764858-7d48cec1-e97d-439f-bbc7-65b638944ecc.png" alt="Logo PYTHON" width=60px>
+  <image src="https://user-images.githubusercontent.com/81267166/183762002-b80182c6-846d-4ffd-b25f-4ea3ace175ce.svg" alt="Logo BIZAGI" width=50px>
 </a>
   
-<!--GOOGLE SHEET-->  
-<a href="#">
-  <image src="https://user-images.githubusercontent.com/81267166/183765191-db308564-4034-4f6c-905c-995d2071a2f1.svg" alt="Logo GOOGLE SHEET" width=45px>
-</a>
+  
 
-<!--POWER AUTOMATE-->  
-<a href="https://www.credly.com/badges/d526de73-8b7b-4419-b117-e38379b23cd4" target="_blank">
-  <image src="https://user-images.githubusercontent.com/81267166/195386132-c2d8c15b-6ae5-4257-9e2b-64aea89d3930.svg" alt="Logo POWER AUTOMATE" width=60px>
-</a>
-  
-  
-  <!--POWER APPS-->  
-<a href="https://www.credly.com/badges/d526de73-8b7b-4419-b117-e38379b23cd4" target="_blank">
-  <image src="https://user-images.githubusercontent.com/81267166/195386158-eca22501-1cfb-4b27-a428-86a7eedf81ef.svg" alt="Logo POWER APPS" width=60px>
-</a>
+
   
 
 
