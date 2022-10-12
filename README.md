@@ -91,10 +91,6 @@ Human Resources + Data = ♥
   <image src="https://user-images.githubusercontent.com/81267166/195386158-eca22501-1cfb-4b27-a428-86a7eedf81ef.svg" alt="Logo POWER APPS" width=60px>
 </a>
   
-  
-<!--PRUEBA-->
-  [Hola](https://www.credly.com/badges/d526de73-8b7b-4419-b117-e38379b23cd4){:target="_blank"}
-
 
 
   <!--------------------------------------
