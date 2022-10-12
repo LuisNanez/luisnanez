@@ -77,7 +77,7 @@ Human Resources + Data = ♥
   
 <!--GOOGLE SHEET-->  
 <a href="#">
-  <image src="https://user-images.githubusercontent.com/81267166/183765191-db308564-4034-4f6c-905c-995d2071a2f1.svg" alt="Logo GOOGLE SHEET" width=50px>
+  <image src="https://user-images.githubusercontent.com/81267166/183765191-db308564-4034-4f6c-905c-995d2071a2f1.svg" alt="Logo GOOGLE SHEET" width=45px>
 </a>
 
 <!--POWER AUTOMATE-->  
