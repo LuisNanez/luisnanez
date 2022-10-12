@@ -81,14 +81,14 @@ Human Resources + Data = ♥
 </a>
 
 <!--POWER AUTOMATE-->  
-<a href="https://www.credly.com/badges/d526de73-8b7b-4419-b117-e38379b23cd4">
-  <image src="https://user-images.githubusercontent.com/81267166/195386132-c2d8c15b-6ae5-4257-9e2b-64aea89d3930.svg" alt="Logo POWER AUTOMATE" width=50px>
+<a href="https://www.credly.com/badges/d526de73-8b7b-4419-b117-e38379b23cd4" target="_blank">
+  <image src="https://user-images.githubusercontent.com/81267166/195386132-c2d8c15b-6ae5-4257-9e2b-64aea89d3930.svg" alt="Logo POWER AUTOMATE" width=80px>
 </a>
   
   
   <!--POWER APPS-->  
-<a href="https://www.credly.com/badges/d526de73-8b7b-4419-b117-e38379b23cd4">
-  <image src="https://user-images.githubusercontent.com/81267166/195386158-eca22501-1cfb-4b27-a428-86a7eedf81ef.svg" alt="Logo POWER APPS" width=50px>
+<a href="https://www.credly.com/badges/d526de73-8b7b-4419-b117-e38379b23cd4" target="_blank">
+  <image src="https://user-images.githubusercontent.com/81267166/195386158-eca22501-1cfb-4b27-a428-86a7eedf81ef.svg" alt="Logo POWER APPS" width=80px>
 </a>
   
 
