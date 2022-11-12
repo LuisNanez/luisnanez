@@ -141,3 +141,33 @@ LINKS O ENLACES
   <image src="https://user-images.githubusercontent.com/81267166/183756495-8cdc59cd-d9ba-490f-89f7-7ccfa29f618a.svg" alt="Logo Power BI" width=40px>
 </a>
 
+
+
+
+
+
+
+
+
+<!--LOGOS DE EMPRESAS-->
+<!--Morris Solutions-->
+<!--
+![1](https://user-images.githubusercontent.com/81267166/201459721-f33330bf-f7bb-464c-84bd-31c5f58d4c03.png)
+-->
+
+<!--Freelance-->
+<!--
+![2](https://user-images.githubusercontent.com/81267166/201459749-c68627e0-be38-4567-978f-7a01c81489a9.png)
+-->
+
+<!--ONP-->
+<!--
+![3](https://user-images.githubusercontent.com/81267166/201459750-3410a6b2-a70a-4f63-9013-6675fc5f8d58.png)
+-->
+
+<!--Contraloria-->
+<!--
+![4](https://user-images.githubusercontent.com/81267166/201459753-1be73bdc-9671-414e-9cc1-ed2c34dc33b0.png)
+-->
+
+
