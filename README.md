@@ -170,4 +170,160 @@ LINKS O ENLACES
 ![4](https://user-images.githubusercontent.com/81267166/201459753-1be73bdc-9671-414e-9cc1-ed2c34dc33b0.png)
 -->
 
+  
 
+<!--LOGOS DE INSTITUCIONES DE CURSOS-->
+<!--EDteam-->
+<!--
+![1](https://user-images.githubusercontent.com/81267166/205414271-def742eb-70c6-4583-aba4-ab940a8923d3.png)
+-->
+  
+
+ <!--Platzi-->
+<!--
+![Platzi](https://user-images.githubusercontent.com/81267166/205414422-f46340c9-b8da-459b-ab8b-0cc902bcb8da.jpg)
+-->
+
+
+ <!--Udemy-->
+<!--
+![Udemy](https://user-images.githubusercontent.com/81267166/205414467-f93438fd-cfae-4297-bc81-9fda8038d8ce.png)
+-->
+
+
+ <!--LinkedIn-->
+<!--
+  ![Linkedin](https://user-images.githubusercontent.com/81267166/205414494-38149b19-9af7-4ebc-96d8-5fdcdfb98b35.png)
+-->
+
+
+ <!--DataCamp-->
+<!--
+  ![Datacamp](https://user-images.githubusercontent.com/81267166/205414513-876a8c17-5971-4c6a-8591-1cba1d263da9.png)
+-->
+  
+
+ <!--Netzun-->
+<!--
+![Netzun](https://user-images.githubusercontent.com/81267166/205414529-8230d899-e9d1-4768-a52e-c6e35e58dd06.png)
+-->
+
+
+ <!--Crehana-->
+<!--
+![Crehana](https://user-images.githubusercontent.com/81267166/205414552-cd82e6d0-2924-4ff6-91e4-ed2471f8ba1b.png)
+-->
+  
+
+ <!--IDEO-->
+<!--
+![IDEO](https://user-images.githubusercontent.com/81267166/205414563-149a8dde-b98b-4aed-a212-f84853851355.jpg)
+-->
+  
+ <!--Temixa-->
+<!--
+![Temixa](https://user-images.githubusercontent.com/81267166/205414577-89a3f6e7-c309-4ff4-a6a8-206e6484fd96.png)
+-->
+  
+
+ <!--SERVIR-->
+<!--
+![SERVIR](https://user-images.githubusercontent.com/81267166/205414599-d78bbf29-7b52-44a1-8661-cb1914bac7f2.jpg)
+-->
+
+
+ <!--EGEC PERÚ-->
+<!--
+![EGEC PERU](https://user-images.githubusercontent.com/81267166/205414620-0216ad17-2361-43cd-938f-c3c808b369c7.png)
+-->
+ 
+
+ <!--Google-->
+<!--
+![Google](https://user-images.githubusercontent.com/81267166/205414633-bcaef204-d5b4-4449-ba48-b23e286f317a.png)
+-->
+  
+ 
+
+<!--Microsoft-->
+<!--
+![Microsoft](https://user-images.githubusercontent.com/81267166/205414668-82ed8173-edb5-4416-8b95-7d3478e8206e.png)
+-->
+
+
+
+<!--Eduline-->
+<!--
+![Eduline](https://user-images.githubusercontent.com/81267166/205414695-b9e6caa0-ac2b-495c-a60b-9c05bd08e873.png)
+-->
+  
+<!--Coderhouse-->
+<!--
+  ![Coderhouse](https://user-images.githubusercontent.com/81267166/205414729-86b9f8c1-d5bb-4ed1-81ed-e4112fd46acb.png)
+-->  
+
+
+<!--Business Insight Center-->
+<!--
+  ![Business Insight Center](https://user-images.githubusercontent.com/81267166/205414782-e760f93a-dffe-4451-aedc-1c0548acb19b.png)
+-->  
+  
+
+  <!--CINFO-->
+<!--
+![CINFO](https://user-images.githubusercontent.com/81267166/205414832-a77ecf36-3b77-4c63-95b9-c6c670abb6f8.png)
+-->  
+ 
+ 
+  <!--Cenap Perú-->
+
+<!--
+![CenapPeru](https://user-images.githubusercontent.com/81267166/205414856-af076435-8f38-4321-b725-b88df775df8b.jpg)
+-->  
+ 
+ 
+  <!--USP-->
+<!--
+![USP](https://user-images.githubusercontent.com/81267166/205414866-7cde7f07-48a0-4304-bc92-586ef9fd42e3.png)
+-->  
+
+  
+  <!--MIPT-->
+<!--
+![MIPT](https://user-images.githubusercontent.com/81267166/205414888-0fdedd6f-415e-468d-8844-a48a268a0c47.png)
+-->  
+
+  
+  <!--Pluralsight-->
+<!--
+![Pluralsight](https://user-images.githubusercontent.com/81267166/205414903-34c85578-82b6-4d0a-92cd-251e0b4dd4e6.jpg)
+-->  
+  
+  <!--SQLBI-->
+<!--
+![SQLBI](https://user-images.githubusercontent.com/81267166/205414925-b6d3185b-02ae-47b4-a93a-68d12401d106.png)
+-->  
+  
+
+  <!--Sololearn-->
+<!--
+![Sololearn](https://user-images.githubusercontent.com/81267166/205415214-e5083579-fe73-43da-b17d-46e95a00a48c.png)
+-->  
+ 
+ 
+  <!--365DataScience-->
+<!--
+![365DataScience](https://user-images.githubusercontent.com/81267166/205415231-5d9a9c04-7036-4d40-8109-1611a3f3d760.png)
+-->  
+  
+
+  <!--OpenWebinars-->
+<!--
+![OpenWebinars](https://user-images.githubusercontent.com/81267166/205415243-3221f7ab-4f53-44b2-96ef-b9bf65fa74ff.jpg)
+-->  
+ 
+ 
+  <!--CIDTH-->
+<!--
+![CIDTH](https://user-images.githubusercontent.com/81267166/205415258-f7eed91f-1299-4782-a274-ba79043f74e8.png)
+-->
