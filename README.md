@@ -104,10 +104,16 @@ CERTIFICACIONES
   
   ### Certifications
   
-  
+
  <!--Certificación EXCEL --> 
  <a href="https://www.credly.com/badges/86f41f12-93ae-40df-97a4-def0a10ef6da">
   <image src="https://user-images.githubusercontent.com/81267166/183761303-84e93f3e-8c7d-4a72-96e1-f4967783772a.png" alt="MOS Excel Expert" width=100px>
+</a>
+   
+ <!--Certificación EXCEL 365 Apps --> 
+ <a href="https://www.credly.com/badges/8d553b0c-b994-41d6-aea4-ffc33be290af">
+  <image src="https://user-images.githubusercontent.com/81267166/208355935-87ebdc89-03bb-4c68-b619-2e61c4742a7a.png" alt="
+Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps)" width=100px>
 </a> 
    
 <!--Certificación Power Platform --> 
@@ -117,7 +123,7 @@ CERTIFICACIONES
 
 <!--Certificación Power Platform App Maker--> 
 <a href="https://www.credly.com/badges/81ca790f-f800-4dcc-942c-85a30ad19405">
-  <image src="https://user-images.githubusercontent.com/81267166/208355499-69d1b646-34b5-4c76-9b5a-9c078d2e1f54.png" alt="MOS Excel Expert" width=100px>
+  <image src="https://user-images.githubusercontent.com/81267166/208355499-69d1b646-34b5-4c76-9b5a-9c078d2e1f54.png" alt="Power Platform App Maker" width=100px>
 </a> 
 
   
