@@ -21,7 +21,7 @@ Human Resources + Data = ♥
 
 - 🌍 I was born in Perú.
 - 💙 I love Microsoft and Google 💛.
-- 📖 I have two microsoft certificates: [Excel Expert](https://www.credly.com/badges/86f41f12-93ae-40df-97a4-def0a10ef6da), [Power Platform Fundamentals](https://www.credly.com/badges/d526de73-8b7b-4419-b117-e38379b23cd4), [Power Platform App Maker](https://www.credly.com/badges/81ca790f-f800-4dcc-942c-85a30ad19405) and [Business Intelligence](https://www.credly.com/badges/2919ee39-035c-4380-afbc-8ed354e08d66)
+- 📖 I have microsoft certificates: [Excel Expert](https://www.credly.com/badges/86f41f12-93ae-40df-97a4-def0a10ef6da), [Power Platform Fundamentals](https://www.credly.com/badges/d526de73-8b7b-4419-b117-e38379b23cd4), [Power Platform App Maker](https://www.credly.com/badges/81ca790f-f800-4dcc-942c-85a30ad19405) and [Business Intelligence](https://www.credly.com/badges/2919ee39-035c-4380-afbc-8ed354e08d66)
 - 🧠 I’m currently learning Python 🐍
 - 📉 I am looking to collaborate in a Human Resources team, specifically People Analytics.
 - 💬 Ask me about Data Analytics, Microsoft Excel, VBA, Power BI.
