@@ -117,11 +117,10 @@ CERTIFICACIONES
 
 <!--Certificación Power Platform App Maker--> 
 <a href="https://www.credly.com/badges/81ca790f-f800-4dcc-942c-85a30ad19405">
-  <image src="https://user-images.githubusercontent.com/81267166/208355123-d2d3599f-931a-4d73-b392-ee11f12bbb84.png" alt="MOS Excel Expert" width=300px>
+  <image src="https://user-images.githubusercontent.com/81267166/208355361-7e37d3ca-cacc-4ff1-87c1-0bd6ea0934d1.png" alt="MOS Excel Expert" width=100px>
 </a> 
 
- 
-  
+
   
   <!--------------------------------------
 LINKS O ENLACES
