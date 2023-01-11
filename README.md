@@ -35,7 +35,7 @@ Human Resources + Data = ♥
 <a href="https://www.credly.com/badges/86f41f12-93ae-40df-97a4-def0a10ef6da">
   <image src="https://user-images.githubusercontent.com/81267166/183756236-62a8ce10-1348-4c23-8d78-785ab40b83d5.svg" alt="Certificación de Microsoft" width=50px>
 </a>
-  
+
 <!--VBA-->  
 <a href="#">
   <image src="https://user-images.githubusercontent.com/81267166/183758646-a96bf165-5c29-4b74-b9f4-a8f4b1fb6bc6.svg" alt="Logo VBA" width=70px>
@@ -138,9 +138,9 @@ Microsoft Office Specialist: Microsoft Word Expert (Office 2019)" width=100px>
 </a> 
   
  
-<!--Certificación Business Inteligence Certiprof--> 
-<a href="https://www.credly.com/badges/2919ee39-035c-4380-afbc-8ed354e08d66">
-  <image src="https://user-images.githubusercontent.com/81267166/208356070-8aaa65e3-5c4a-465d-8783-595748abb783.png" alt="Power Platform App Maker" width=100px>
+<!--Certificación Microsoft Office Specialist: Outlook Associate (Office 2019)--> 
+<a href="https://www.credly.com/badges/b260c254-e2db-4173-8fd3-d5a9094753cd">
+  <image src="https://user-images.githubusercontent.com/81267166/211935475-8ca76d96-6b5a-4138-bfeb-da0b7cfa5f25.png" alt="Microsoft Office Specialist: Outlook Associate (Office 2019)" width=100px>
 </a> 
 
   
