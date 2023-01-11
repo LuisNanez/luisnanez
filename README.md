@@ -103,7 +103,18 @@ CERTIFICACIONES
 ----------------------------------------->
   
   ### Certifications
+
+<!--Certificación Microsoft Office Specialist: Microsoft Word Expert (Office 2019)--> 
+<a href="https://www.credly.com/badges/7137b05f-ebc9-4a0d-867d-17b17fa8da4e">
+  <image src="https://user-images.githubusercontent.com/81267166/211935159-8fab3ab3-a3cb-461b-b55c-1a8744573a74.png" alt="
+Microsoft Office Specialist: Microsoft Word Expert (Office 2019)" width=100px>
+</a> 
   
+ 
+<!--Certificación Microsoft Office Specialist: Outlook Associate (Office 2019)--> 
+<a href="https://www.credly.com/badges/b260c254-e2db-4173-8fd3-d5a9094753cd">
+  <image src="https://user-images.githubusercontent.com/81267166/211935475-8ca76d96-6b5a-4138-bfeb-da0b7cfa5f25.png" alt="Microsoft Office Specialist: Outlook Associate (Office 2019)" width=100px>
+</a> 
 
  <!--Certificación EXCEL --> 
  <a href="https://www.credly.com/badges/86f41f12-93ae-40df-97a4-def0a10ef6da">
@@ -131,17 +142,7 @@ Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps)" width=100px>
   <image src="https://user-images.githubusercontent.com/81267166/208356070-8aaa65e3-5c4a-465d-8783-595748abb783.png" alt="Power Platform App Maker" width=100px>
 </a>
 
-<!--Certificación Microsoft Office Specialist: Microsoft Word Expert (Office 2019)--> 
-<a href="https://www.credly.com/badges/7137b05f-ebc9-4a0d-867d-17b17fa8da4e">
-  <image src="https://user-images.githubusercontent.com/81267166/211935159-8fab3ab3-a3cb-461b-b55c-1a8744573a74.png" alt="
-Microsoft Office Specialist: Microsoft Word Expert (Office 2019)" width=100px>
-</a> 
-  
- 
-<!--Certificación Microsoft Office Specialist: Outlook Associate (Office 2019)--> 
-<a href="https://www.credly.com/badges/b260c254-e2db-4173-8fd3-d5a9094753cd">
-  <image src="https://user-images.githubusercontent.com/81267166/211935475-8ca76d96-6b5a-4138-bfeb-da0b7cfa5f25.png" alt="Microsoft Office Specialist: Outlook Associate (Office 2019)" width=100px>
-</a> 
+
 
   
   <!--------------------------------------
