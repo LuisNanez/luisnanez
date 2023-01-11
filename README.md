@@ -129,6 +129,18 @@ Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps)" width=100px>
 <!--Certificación Business Inteligence Certiprof--> 
 <a href="https://www.credly.com/badges/2919ee39-035c-4380-afbc-8ed354e08d66">
   <image src="https://user-images.githubusercontent.com/81267166/208356070-8aaa65e3-5c4a-465d-8783-595748abb783.png" alt="Power Platform App Maker" width=100px>
+</a>
+
+<!--Certificación Microsoft Office Specialist: Microsoft Word Expert (Office 2019)--> 
+<a href="https://www.credly.com/badges/7137b05f-ebc9-4a0d-867d-17b17fa8da4e">
+  <image src="https://user-images.githubusercontent.com/81267166/211935159-8fab3ab3-a3cb-461b-b55c-1a8744573a74.png" alt="
+Microsoft Office Specialist: Microsoft Word Expert (Office 2019)" width=100px>
+</a> 
+  
+ 
+<!--Certificación Business Inteligence Certiprof--> 
+<a href="https://www.credly.com/badges/2919ee39-035c-4380-afbc-8ed354e08d66">
+  <image src="https://user-images.githubusercontent.com/81267166/208356070-8aaa65e3-5c4a-465d-8783-595748abb783.png" alt="Power Platform App Maker" width=100px>
 </a> 
 
   
