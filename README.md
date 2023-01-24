@@ -92,23 +92,23 @@ Human Resources + Data = ♥
   <image src="https://user-images.githubusercontent.com/81267166/183762002-b80182c6-846d-4ffd-b25f-4ea3ace175ce.svg" alt="Logo BIZAGI" width=50px>
 </a>
   
-  
-
-
-  
-
+ 
 
   <!--------------------------------------
 CERTIFICACIONES
 ----------------------------------------->
   
   ### Certifications
- ![Badge_MicrosoftOutlook]()
 
+
+<!--Certificación Microsoft Office Specialist: PowerPoint Associate (Office 2019)--> 
+<a href="https://www.credly.com/badges/96479b05-3b92-49f5-b203-665b5b04573b">
+  <image src="https://user-images.githubusercontent.com/81267166/214389399-8454f60e-a88f-426f-aa61-9f78955256f3.png" alt="Microsoft Office Specialist: PowerPoint Associate (Office 2019)" width=100px>
+</a>
+  
 <!--Certificación Microsoft Office Specialist: Outlook Associate (Office 2019)--> 
 <a href="https://www.credly.com/badges/b260c254-e2db-4173-8fd3-d5a9094753cd">
   <image src="https://user-images.githubusercontent.com/81267166/211935475-8ca76d96-6b5a-4138-bfeb-da0b7cfa5f25.png" alt="Microsoft Office Specialist: Outlook Associate (Office 2019)" width=100px>
-      <image src="https://user-images.githubusercontent.com/81267166/214388195-05b909a1-c178-469d-9541-418635afe9b0.svg" alt="Microsoft Office Specialist: Outlook Associate (Office 2019)" width=100px>
 </a>
   
 <!--Certificación Microsoft Office Specialist: Microsoft Word Expert (Office 2019)--> 
