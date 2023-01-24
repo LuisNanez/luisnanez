@@ -103,10 +103,12 @@ CERTIFICACIONES
 ----------------------------------------->
   
   ### Certifications
- 
+ ![Badge_MicrosoftOutlook]()
+
 <!--Certificación Microsoft Office Specialist: Outlook Associate (Office 2019)--> 
 <a href="https://www.credly.com/badges/b260c254-e2db-4173-8fd3-d5a9094753cd">
   <image src="https://user-images.githubusercontent.com/81267166/211935475-8ca76d96-6b5a-4138-bfeb-da0b7cfa5f25.png" alt="Microsoft Office Specialist: Outlook Associate (Office 2019)" width=100px>
+      <image src="https://user-images.githubusercontent.com/81267166/214388195-05b909a1-c178-469d-9541-418635afe9b0.svg" alt="Microsoft Office Specialist: Outlook Associate (Office 2019)" width=100px>
 </a>
   
 <!--Certificación Microsoft Office Specialist: Microsoft Word Expert (Office 2019)--> 
