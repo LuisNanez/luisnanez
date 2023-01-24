@@ -129,11 +129,30 @@ Microsoft Office Specialist: Microsoft Word Expert (Office 2019)" width=100px>
   <image src="https://user-images.githubusercontent.com/81267166/183761303-84e93f3e-8c7d-4a72-96e1-f4967783772a.png" alt="MOS Excel Expert" width=100px>
 </a>
    
+ <!--Certificación OFFICE SPECIALIST ASSOCIATE --> 
+ <a href="https://www.credly.com/badges/e123a8f8-63c1-4dee-b5df-7b797e4e0f6d">
+  <image src="https://user-images.githubusercontent.com/81267166/214390446-8e73b436-0dda-4d13-9afe-82a61dc66bd3.png" alt="Microsoft Office Specialist: Associate (Office 2019)" width=100px>
+</a>
+   
+
+ <!--Certificación OFFICE SPECIALIST EXPERT --> 
+ <a href="https://www.credly.com/badges/0ae23996-09de-42f1-87fe-c988751391ce">
+  <image src="https://user-images.githubusercontent.com/81267166/214390493-cae37b40-b7f8-4c10-803a-36002a5dd3d0.png" alt="Microsoft Office Specialist: Expert (Office 2019)" width=100px>
+</a>
+   
+   
  <!--Certificación EXCEL 365 Apps --> 
  <a href="https://www.credly.com/badges/8d553b0c-b994-41d6-aea4-ffc33be290af">
   <image src="https://user-images.githubusercontent.com/81267166/208355935-87ebdc89-03bb-4c68-b619-2e61c4742a7a.png" alt="
 Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps)" width=100px>
-</a> 
+</a>
+   
+
+  <!--Certificación OFFICE SPECIALIST ASSOCIATE 365 APPS --> 
+ <a href="https://www.credly.com/badges/b9d0a89f-fb6a-42b2-8497-3d33950bd974">
+  <image src="https://user-images.githubusercontent.com/81267166/214390347-f0a3ea71-615b-4776-b086-ef4461999eea.png" alt="Microsoft Office Specialist: Associate (Microsoft 365 Apps)" width=100px>
+</a>  
+   
    
 <!--Certificación Power Platform --> 
 <a href="https://www.credly.com/badges/d526de73-8b7b-4419-b117-e38379b23cd4">
