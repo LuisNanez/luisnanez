@@ -169,7 +169,13 @@ Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps)" width=100px>
   <image src="https://user-images.githubusercontent.com/81267166/214388990-01f26b19-7629-4a0c-8a28-3544447d0dba.png" alt="Azure Data Fundamentals" width=100px>
 </a> 
 
+<!--Microsoft Innovative Educator Expert 2022-2023--> 
+<a href="https://www.credly.com/badges/c9ff2288-a2a8-492a-a9f6-7058b09c0ab2">
+  <image src="https://user-images.githubusercontent.com/81267166/219440226-631f7991-22d5-4422-9d86-e260e4484a1e.png" alt="Microsoft Innovative Educator Expert 2022-2023" width=100px>
+</a>
 
+  
+  
 
 <!--Certificación Business Inteligence Certiprof--> 
 <a href="https://www.credly.com/badges/2919ee39-035c-4380-afbc-8ed354e08d66">
