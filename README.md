@@ -414,9 +414,9 @@ LINKS O ENLACES
 
 <!--BANCOOOOS O CUENTAS BANCARIAS -->
   
-     <!--FPAY-->
+
 <!--
-  ![DataPath](https://user-images.githubusercontent.com/81267166/227313475-c8ca72db-b14f-4801-b298-277ad719688c.jpg)
+  ![FPAY](https://user-images.githubusercontent.com/81267166/227313475-c8ca72db-b14f-4801-b298-277ad719688c.jpg)
 -->
 
      <!--BANCO FALABELLA-->
