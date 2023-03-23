@@ -419,27 +419,23 @@ LINKS O ENLACES
   ![FPAY](https://user-images.githubusercontent.com/81267166/227313475-c8ca72db-b14f-4801-b298-277ad719688c.jpg)
 -->
 
-     <!--BANCO FALABELLA-->
 <!--
-  ![DataPath](https://user-images.githubusercontent.com/81267166/227313755-7153e402-f4b8-4622-a1ba-2ae1152496ed.jpg)
+  ![BANCO FALABELLA](https://user-images.githubusercontent.com/81267166/227313755-7153e402-f4b8-4622-a1ba-2ae1152496ed.jpg)
 -->
   
-     <!--INTERBANK-->
 <!--
-  ![DataPath](https://user-images.githubusercontent.com/81267166/227313989-a22d0d3f-ffad-4618-8ffd-e2a5e6753fe9.jpg)
+  ![INTERBANK](https://user-images.githubusercontent.com/81267166/227313989-a22d0d3f-ffad-4618-8ffd-e2a5e6753fe9.jpg)
 -->
   
-     <!--BCP-->
 <!--
-  ![DataPath](https://user-images.githubusercontent.com/81267166/227314081-af62f6ef-03c2-4e52-8ed5-b365acdc1893.jpg)
+  ![BCP](https://user-images.githubusercontent.com/81267166/227314081-af62f6ef-03c2-4e52-8ed5-b365acdc1893.jpg)
 -->
 
-     <!--TREN-->
+
 <!--
-  ![DataPath](https://user-images.githubusercontent.com/81267166/227314243-d7a83d70-cfe7-40f0-871f-d0656d9bc291.png)
+  ![TREN](https://user-images.githubusercontent.com/81267166/227314243-d7a83d70-cfe7-40f0-871f-d0656d9bc291.png)
 -->
-  
-     <!--DataPath-->
+
 <!--
   ![DataPath]()
 -->
