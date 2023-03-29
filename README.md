@@ -156,12 +156,7 @@ Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps)" width=100px>
 Microsoft Office Specialist: Word Associate (Microsoft 365 Apps)" width=100px>
 </a>
    
-     <!--Certificación WORD22222222 365 Apps --> 
- <a href="https://www.credly.com/badges/696fe525-fb96-433d-9653-d6ac6df02852">
-  <image src="https://images.credly.com/images/323ec4a8-7d1f-486f-9c68-258947965b8e/image.png" alt="
-Microsoft Office Specialist: Word Associate (Microsoft 365 Apps2)" width=100px>
-</a>
-  
+
 
   <!--Certificación POWERPOINT 365 Apps --> 
  <a href="https://www.credly.com/badges/ef6ffb77-39eb-4d3a-90e4-d8547a205b85">
