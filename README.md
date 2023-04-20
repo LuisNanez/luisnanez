@@ -461,25 +461,25 @@ LINKS O ENLACES
   ![bike-chain.png](https://user-images.githubusercontent.com/81267166/233255459-fe174da9-8d0e-4483-abac-65f70c36d145.png)
 -->
 
- <!--
+<!--
   ![mountain-bike-black.png](https://user-images.githubusercontent.com/81267166/233255821-9a851dde-f293-4330-b5a8-f30eb6f0e65d.png)
 -->
 
-   <!--
+<!--
   ![mountain-bike-frame.png](https://user-images.githubusercontent.com/81267166/233255856-47a41a81-8a90-41b5-b04d-de2fbf762760.png)
 -->
 
 
-   <!--
+<!--
   ![mountain-bike-front-wheel.png](https://user-images.githubusercontent.com/81267166/233256010-fbeb32fa-02a6-4ea2-a5e9-f3331bb20492.png)
 -->
 
-   <!--
+<!--
   ![mountain-bike-pedal.png](https://user-images.githubusercontent.com/81267166/233256130-f8bcb96f-acc9-421e-99a7-bfb16e87e5fb.png)
 -->
  
 
-   <!--
+<!--
   ![mountain-bike-rear-wheel.png](https://user-images.githubusercontent.com/81267166/233256234-9c288832-98b0-4bd2-8ae1-cc709583f2d8.png)
 -->
 
@@ -489,11 +489,11 @@ LINKS O ENLACES
 -->
 
 
-     <!--
+<!--
   ![mountain-handlebars.png](https://user-images.githubusercontent.com/81267166/233256372-b99629af-a050-4426-b1ac-5a3a1494b964.png)
 -->
 
-     <!--
+<!--
   ![red-long-sleeve-jersey.png](https://user-images.githubusercontent.com/81267166/233256449-3f75dc4d-aa9e-48a8-bae7-8432df665d97.png)
 -->
 
@@ -511,21 +511,21 @@ LINKS O ENLACES
 -->
 
 
-     <!--
+<!--
   ![road-red-frame.png](https://user-images.githubusercontent.com/81267166/233256818-46ba1cac-58ee-4f8f-ab53-be1cfccedd61.png)
 -->
  
 
-     <!--
+<!--
   ![road-white-frame.png](https://user-images.githubusercontent.com/81267166/233256908-0da843b8-3330-4670-8b8e-7ca0d6b2fbe8.png)
 -->
 
 
-     <!--
+<!--
   ![touring-panniers.png](https://user-images.githubusercontent.com/81267166/233256997-381a4fac-c304-47fb-98b4-f8f623ecdca3.png)
 -->
   
-     <!--
+<!--
   ![white-helmet.png](https://user-images.githubusercontent.com/81267166/233257073-0df3a669-8ee1-4a07-a994-bdc512e32fdd.png)
 -->
 
