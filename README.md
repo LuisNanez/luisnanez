@@ -484,7 +484,7 @@ LINKS O ENLACES
 -->
 
 
-     <!--
+<!--
   ![mountain-bike-seat.png](https://user-images.githubusercontent.com/81267166/233256312-b81d466f-fc1f-4c70-8e2f-23706c90239c.png)
 -->
 
@@ -497,16 +497,16 @@ LINKS O ENLACES
   ![red-long-sleeve-jersey.png](https://user-images.githubusercontent.com/81267166/233256449-3f75dc4d-aa9e-48a8-bae7-8432df665d97.png)
 -->
 
-     <!--
+<!--
   ![road-bike-red.png](https://user-images.githubusercontent.com/81267166/233256537-d63ae9f7-6413-423c-b52f-6d70913617c9.png)
 -->
 
 
-     <!--
+<!--
   ![road-bike-seat.png](https://user-images.githubusercontent.com/81267166/233256607-88d775dc-b85c-40bd-a97b-0cf96488d5e7.png)
 -->
 
-     <!--
+<!--
   ![road-handlebars.png](https://user-images.githubusercontent.com/81267166/233256744-47f1ebb8-8f9a-487e-b7ba-3b2ef836395b.png)
 -->
 
@@ -529,9 +529,5 @@ LINKS O ENLACES
   ![white-helmet.png](https://user-images.githubusercontent.com/81267166/233257073-0df3a669-8ee1-4a07-a994-bdc512e32fdd.png)
 -->
 
-
-     <!--
-  ![.png]()
--->
 
   
