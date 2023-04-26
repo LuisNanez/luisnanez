@@ -173,12 +173,18 @@ Microsoft Office Specialist: PowerPoint Associate (Microsoft 365 Apps)" width=10
   <!--Certificación OFFICE SPECIALIST ASSOCIATE 365 APPS --> 
  <a href="https://www.credly.com/badges/b9d0a89f-fb6a-42b2-8497-3d33950bd974">
   <image src="https://user-images.githubusercontent.com/81267166/214390347-f0a3ea71-615b-4776-b086-ef4461999eea.png" alt="Microsoft Office Specialist: Associate (Microsoft 365 Apps)" width=100px>
+</a>
+   
+   
+  <!--Certificación EXCEL EXPERT 365 APPS --> 
+ <a href="https://www.credly.com/badges/f705c342-f055-489a-9d7a-1de10cfd2b6d">
+  <image src="https://user-images.githubusercontent.com/81267166/234462563-8b26730a-eecb-45f2-9fc7-5d2887a6b1f5.png" alt="Microsoft Office Specialist: Excel Expert (Microsoft 365 Apps)" width=100px>
 </a>  
+
    
-   
-<!--Certificación Power Platform --> 
+<!--Certificación Power Platform Fundamentals --> 
 <a href="https://www.credly.com/badges/d526de73-8b7b-4419-b117-e38379b23cd4">
-  <image src="https://user-images.githubusercontent.com/81267166/183762485-59a97db7-4721-4471-8274-65bf04dd49db.png" alt="MOS Excel Expert" width=100px>
+  <image src="https://user-images.githubusercontent.com/81267166/183762485-59a97db7-4721-4471-8274-65bf04dd49db.png" alt="Power Platform Fundamentals" width=100px>
 </a> 
 
 <!--Certificación Power Platform App Maker--> 
