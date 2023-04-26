@@ -141,6 +141,11 @@ Microsoft Office Specialist: Microsoft Word Expert (Office 2019)" width=100px>
 </a>
    
    
+ <!--Microsoft Innovative Educator Expert 2022-2023--> 
+<a href="https://www.credly.com/badges/c9ff2288-a2a8-492a-a9f6-7058b09c0ab2">
+  <image src="https://user-images.githubusercontent.com/81267166/219440226-631f7991-22d5-4422-9d86-e260e4484a1e.png" alt="Microsoft Innovative Educator Expert 2022-2023" width=100px>
+</a>
+   
  <!--Certificación EXCEL 365 Apps --> 
  <a href="https://www.credly.com/badges/8d553b0c-b994-41d6-aea4-ffc33be290af">
   <image src="https://user-images.githubusercontent.com/81267166/208355935-87ebdc89-03bb-4c68-b619-2e61c4742a7a.png" alt="
@@ -186,10 +191,7 @@ Microsoft Office Specialist: PowerPoint Associate (Microsoft 365 Apps)" width=10
   <image src="https://user-images.githubusercontent.com/81267166/214388990-01f26b19-7629-4a0c-8a28-3544447d0dba.png" alt="Azure Data Fundamentals" width=100px>
 </a> 
 
-<!--Microsoft Innovative Educator Expert 2022-2023--> 
-<a href="https://www.credly.com/badges/c9ff2288-a2a8-492a-a9f6-7058b09c0ab2">
-  <image src="https://user-images.githubusercontent.com/81267166/219440226-631f7991-22d5-4422-9d86-e260e4484a1e.png" alt="Microsoft Innovative Educator Expert 2022-2023" width=100px>
-</a>
+
 
   
   
