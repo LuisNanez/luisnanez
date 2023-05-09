@@ -477,7 +477,10 @@ LINKS O ENLACES
   ![LOGO SVG WORKS CYCLE](https://github.com/LuisNanez/luisnanez/assets/81267166/502765dc-b2e2-482d-8d23-cfdcfb865a9c)
 -->
   
-
+   <!--
+  ![LOGO PNG WORKS CYCLE](https://github.com/LuisNanez/luisnanez/assets/81267166/1b5dbecd-7e7c-4775-98fa-d7c615edcd83)
+-->
+  
  <!--
   ![bike-chain.png](https://user-images.githubusercontent.com/81267166/233255459-fe174da9-8d0e-4483-abac-65f70c36d145.png)
 -->
@@ -551,4 +554,4 @@ LINKS O ENLACES
 -->
 
 
-  
+
