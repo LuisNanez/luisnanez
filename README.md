@@ -207,15 +207,23 @@ Microsoft Office Specialist: PowerPoint Associate (Microsoft 365 Apps)" width=10
 
 
 
-  
+  ![microsoft-innovative-educator-expert-2023-2024]()
+
   
 
 <!--Certificación Business Inteligence Certiprof--> 
 <a href="https://www.credly.com/badges/2919ee39-035c-4380-afbc-8ed354e08d66">
-  <image src="https://user-images.githubusercontent.com/81267166/208356070-8aaa65e3-5c4a-465d-8783-595748abb783.png" alt="Power Platform App Maker" width=100px>
+  <image src="https://user-images.githubusercontent.com/81267166/208356070-8aaa65e3-5c4a-465d-8783-595748abb783.png"![Uploading microsoft-innovative-educator-expert-2023-2024.png…]()
+ alt="Power Platform App Maker" width=100px>
 </a>
 
 
+
+
+<!--Microsoft Innovative Educator Expert 2023-2024--> 
+<a href="https://www.credly.com/badges/a6c51efe-68d0-44ef-8ec6-ca364da7aa3f">
+  <image src="https://github.com/LuisNanez/luisnanez/assets/81267166/fa839269-3f0d-4010-9f1d-3fbb29d9f5e0" alt="Microsoft Innovative Educator Expert 2022-2023" width=100px>
+</a>
 
   
   <!--------------------------------------
