@@ -221,6 +221,10 @@ Microsoft Office Specialist: PowerPoint Associate (Microsoft 365 Apps)" width=10
   <image src="https://github.com/LuisNanez/luisnanez/assets/81267166/fa839269-3f0d-4010-9f1d-3fbb29d9f5e0" alt="Microsoft Innovative Educator Expert 2022-2023" width=100px>
 </a>
 
+<!--Microsoft Innovative Educator Expert 2024-2025--> 
+<a href="https://www.credly.com/badges/bc99f96c-dacb-477f-9d0d-b05af6e84f06">
+  <image src="https://github.com/user-attachments/assets/34471fd9-0310-494a-a330-41582970ef3a" alt="Microsoft Innovative Educator Expert 2024-2025" width=100px>
+</a>
   
   <!--------------------------------------
 LINKS O ENLACES
