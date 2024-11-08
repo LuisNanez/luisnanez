@@ -27,7 +27,7 @@ Human Resources + Data = ♥
 - 📉 I am looking to collaborate in a Human Resources team, specifically People Analytics.
 - 💬 Ask me about Data Analytics, Microsoft Excel, VBA, Power BI.
 - ⚡ Fun fact: I love to dance and learn every day.
-- 📫  You can reach me at luis.nanez@unmsm.edu.pe
+- 📫  You can reach me at luis.nanezllanos@gmail.com
 
 
 ### Tools
