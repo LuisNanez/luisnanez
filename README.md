@@ -215,6 +215,11 @@ Microsoft Office Specialist: PowerPoint Associate (Microsoft 365 Apps)" width=10
 
 
 
+<!--Certificación Prompt Engineering Foundation Professional Certification Certiprof--> 
+<a href="https://www.credly.com/badges/4fb3acb8-c073-4b96-843e-61ca2c86d3ca">
+  <image src="https://github.com/user-attachments/assets/f8086306-aac1-40cc-81e0-9874f360f957" 
+ alt="Prompt Engineering" width=100px>
+</a>
 
 <!--Microsoft Innovative Educator Expert 2023-2024--> 
 <a href="https://www.credly.com/badges/a6c51efe-68d0-44ef-8ec6-ca364da7aa3f">
