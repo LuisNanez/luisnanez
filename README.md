@@ -238,7 +238,7 @@ LINKS O ENLACES
   
 ### My links
 
-<a href="https://www.luisnanezllanos.ml">
+<a href="https://cvluisnanezllanos.blogspot.com">
   <image src="https://user-images.githubusercontent.com/81267166/183754901-c0f65b82-823f-4b2d-8300-8dfc629e3e02.png" alt="Visitar Sitio Web" width=40px>
 </a>
  
