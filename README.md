@@ -1,4 +1,4 @@
-# Hi 👋 my name is Luis Ñañez Llanos.
+![Union](https://github.com/user-attachments/assets/a52b8401-1733-41e3-bb99-48da756e9278)# Hi 👋 my name is Luis Ñañez Llanos.
 Curious and self-taught in general
 
 ![CV Animado](https://user-images.githubusercontent.com/81267166/183773283-de7a6158-d910-4959-ae9d-fd18bac6ae73.gif)
@@ -31,6 +31,12 @@ Human Resources + Data = ♥
 
 
 ### Tools
+
+![Uploadi<svg width="313" height="307" viewBox="0 0 313 307" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M251 0C285.242 0 313 27.7583 313 62C313 93.5119 289.491 119.532 259.055 123.48L259.5 124C249.1 152.4 224.833 164.167 214 166.5L78 169.5V185.085C104.487 192.14 124 216.291 124 245C124 279.242 96.2417 307 62 307C27.7583 307 0 279.242 0 245C0 217.018 18.5367 193.367 44 185.654V121.345C18.5369 113.632 0 89.9814 0 62C0 27.7583 27.7583 0 62 0C96.2417 0 124 27.7583 124 62C124 90.709 104.487 114.859 78 121.914V136H211.5C224.592 131.636 227.943 123.304 227.997 119.591C205.145 110.455 189 88.1136 189 62C189 27.7583 216.758 0 251 0Z" fill="#489B42"/>
+</svg>
+ng Union.svg…]()
+
 
 <!--EXCEL-->
 <a href="https://www.credly.com/badges/86f41f12-93ae-40df-97a4-def0a10ef6da">
