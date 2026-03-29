@@ -1,4 +1,4 @@
-![Union](https://github.com/user-attachments/assets/a52b8401-1733-41e3-bb99-48da756e9278)# Hi 👋 my name is Luis Ñañez Llanos.
+# Hi 👋 my name is Luis Ñañez Llanos.
 Curious and self-taught in general
 
 ![CV Animado](https://user-images.githubusercontent.com/81267166/183773283-de7a6158-d910-4959-ae9d-fd18bac6ae73.gif)
